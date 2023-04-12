@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "childlibrary",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/tmpKPyandex/ChildLibrary",
+      "state" : {
+        "revision" : "7f4600cf919acc6ac2fdeeb7e9776d7116969260",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 2
+}
